@@ -5,3 +5,7 @@ fun main() {
   var linguagemFavorita = "Python"
 
   println("APRESENTAÇÃO PESSOAL")
+  println("Nome: $nome")
+  println("Idade: $idade Anos")
+  println("Cidade: $cidade")
+  println("Liguagem favorita: $liguagemfavorita")
